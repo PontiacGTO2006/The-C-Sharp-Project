@@ -1,0 +1,15 @@
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Playground.exe
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Playground.deps.json
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Playground.runtimeconfig.json
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Playground.dll
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Playground.pdb
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.csproj.AssemblyReference.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.AssemblyInfoInputs.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.AssemblyInfo.cs
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.dll
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\refint\Playground.dll
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.pdb
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Playground.genruntimeconfig.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\ref\Playground.dll
