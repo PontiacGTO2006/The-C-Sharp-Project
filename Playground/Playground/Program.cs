@@ -3,6 +3,10 @@ Bear b = new Bear("6 feet 3 inches");
 Age a = new Age("61");
 Car c = new Car("2021 Rustler Trident Race GT");
 
+Console.WriteLine("Make sure you memorize the information carefully; it will be on the upcoming Harvey Knowledge Check, and you will not be able to access that information again! You have 10 seconds.");
+Thread.Sleep(10000);
+
+Console.Clear();
 Console.WriteLine("Harvey knowledge check: See if you can answer all of the questions below correctly.");
 Console.WriteLine("How old is Harvey?");
 if(Console.ReadLine() == "61")
@@ -34,6 +38,8 @@ else
     Console.WriteLine("Incorrect.");
 }
 
+Console.WriteLine("Thank you for your cooperation. You have now completed the Harvey Knowledge Check.");
+
 public class Bear
 {
     string Height;
@@ -63,10 +69,3 @@ public class Car
         Console.WriteLine("We will now present to you the car the bear Harvey drives: " + c);
     }
 }
-
-public class KnowledgeCheck
-{
-    
-}
-
-
