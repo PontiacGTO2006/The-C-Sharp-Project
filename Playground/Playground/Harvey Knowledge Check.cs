@@ -7,6 +7,7 @@ Console.WriteLine("Make sure you memorize the information carefully; it will be 
 Thread.Sleep(10000);
 
 Console.Clear();
+// Knowledge Check begins here.
 Console.WriteLine("Harvey knowledge check: See if you can answer all of the questions below correctly.");
 Console.WriteLine("How old is Harvey?");
 if(Console.ReadLine() == "61")
@@ -19,7 +20,7 @@ else
 }
 
 Console.WriteLine("Next question: What car does Harvey drive?");
-if (Console.ReadLine() == "61")
+if (Console.ReadLine() == "2021 Rustler Trident Race GT")
 {
     Console.WriteLine("Correct.");
 }
