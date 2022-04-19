@@ -1,0 +1,15 @@
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Harvey Knowledge Check.exe
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Harvey Knowledge Check.deps.json
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Harvey Knowledge Check.runtimeconfig.json
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Harvey Knowledge Check.dll
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\bin\Debug\net6.0\Harvey Knowledge Check.pdb
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.csproj.AssemblyReference.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.AssemblyInfoInputs.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.AssemblyInfo.cs
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.csproj.CoreCompileInputs.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.dll
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\refint\Harvey Knowledge Check.dll
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.pdb
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\Harvey Knowledge Check.genruntimeconfig.cache
+C:\Users\car-m\Documents\Git\The-C-Sharp-Project\Playground\Playground\obj\Debug\net6.0\ref\Harvey Knowledge Check.dll
