@@ -1,27 +1,46 @@
-﻿// This program will define the properties of a bear Harvey and then spit out those values when the user asks for them in the console.
-Bear b = new Bear("Harvey");
+﻿// This program will define the properties of a bear Harvey, then quiz the user on the properties.
+Bear b = new Bear("6 feet 3 inches");
 Age a = new Age("61");
 Car c = new Car("2021 Rustler Trident Race GT");
 
-int Hrvage;
-Hrvage = 61;
-
 Console.WriteLine("Harvey knowledge check: See if you can answer all of the questions below correctly.");
 Console.WriteLine("How old is Harvey?");
-
-int UserHarveyAge = Console.Read();
-if (UserHarveyAge == Hrvage)
+if(Console.ReadLine() == "61")
 {
     Console.WriteLine("Correct.");
+}
+else
+{
+    Console.WriteLine("Incorrect.");
+}
+
+Console.WriteLine("Next question: What car does Harvey drive?");
+if (Console.ReadLine() == "61")
+{
+    Console.WriteLine("Correct.");
+}
+else
+{
+    Console.WriteLine("Incorrect.");
+}
+
+Console.WriteLine("Final question: how tall is Harvey?");
+if (Console.ReadLine() == "6 feet 3 inches")
+{
+    Console.WriteLine("Correct.");
+}
+else
+{
+    Console.WriteLine("Incorrect.");
 }
 
 public class Bear
 {
-    string Harvey;
+    string Height;
     public Bear (string n)
     {
-        Harvey = n;
-        Console.WriteLine("We will now present to you the name of the Bear: " + n);
+        Height = n;
+        Console.WriteLine("We will now present to you the height of the bear Harvey: " + n);
     }
 }
 
