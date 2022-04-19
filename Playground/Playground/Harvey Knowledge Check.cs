@@ -41,6 +41,7 @@ else
 
 Console.WriteLine("Thank you for your cooperation. You have now completed the Harvey Knowledge Check.");
 
+// Bear definitions section
 public class Bear
 {
     string Height;
