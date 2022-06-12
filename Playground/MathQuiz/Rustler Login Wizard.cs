@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Welcome to the Rustler Technologies Inc. Login Wizard. This is where you create and then login to your Rustler account. Use this tool if you are new to Rustler and want to create a new systems account. You will enter your desired password, username, security questions, and then login to your account using that information. Let's begin.");
 
-// Section 1
+// Section 1: The Assignment
 Console.WriteLine("Please type your desired password below. It must be at least 20 characers long and include at least 1 special character and number.");
 var inpupassword1 = Console.ReadLine();
 
