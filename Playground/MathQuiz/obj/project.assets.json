@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj",
-      "projectName": "MathQuiz",
-      "projectPath": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj",
+      "projectUniqueName": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\RustlerLoginValidator.csproj",
+      "projectName": "RustlerLoginValidator",
+      "projectPath": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\RustlerLoginValidator.csproj",
       "packagesPath": "C:\\Users\\car-m\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.csproj.AssemblyReference.cache
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.AssemblyInfoInputs.cache
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.AssemblyInfo.cs
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.csproj.CoreCompileInputs.cache
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\bin\Debug\net6.0\RustlerLoginValidator.exe
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\bin\Debug\net6.0\RustlerLoginValidator.deps.json
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\bin\Debug\net6.0\RustlerLoginValidator.runtimeconfig.json
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\bin\Debug\net6.0\RustlerLoginValidator.dll
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\bin\Debug\net6.0\RustlerLoginValidator.pdb
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.dll
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\refint\RustlerLoginValidator.dll
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.pdb
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\RustlerLoginValidator.genruntimeconfig.cache
+C:\Users\car-m\Documents\GitHub\The-C-Sharp-Project\Playground\MathQuiz\obj\Debug\net6.0\ref\RustlerLoginValidator.dll

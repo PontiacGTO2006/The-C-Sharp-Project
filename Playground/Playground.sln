@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harvey Knowledge Check", "Playground\Harvey Knowledge Check.csproj", "{4BC9AD32-3E23-4074-B90A-872C20B3CB04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathQuiz", "MathQuiz\MathQuiz.csproj", "{A231B457-09CD-4D36-9B37-1A234EE3BAAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RustlerLoginValidator", "MathQuiz\RustlerLoginValidator.csproj", "{A231B457-09CD-4D36-9B37-1A234EE3BAAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

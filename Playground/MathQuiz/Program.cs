@@ -1,67 +1,44 @@
-﻿//Console.WriteLine("Welcome to the square-roots- and exponents-level Math Quiz. Are you ready to take the test? You will have five seconds to close this console window.");
-//// Thread.Sleep(5000);
-
-//Console.WriteLine("First question.");
-//Console.WriteLine("What is the square root of 81?");
-//   if (Console.ReadLine() == "9")
-//   {
-//        Console.WriteLine("Correct.");
-//        Console.WriteLine("Your score is 1.");
-//        bool answer = true;
-//}
-//   else
-//   {
-//        Console.WriteLine("Incorrect.");
-//        Console.WriteLine("Your score is 0.");
-//        bool answer = false;
-//   }
-//Console.WriteLine("What is 4 to the sixth power?");
-//   if (Console.ReadLine() == "4096")
-//   {
-//        Console.WriteLine("Correct.");
-//        bool answer;
-//        if (answer = false)
-//        {
-//            Console.WriteLine("Your score is 1.");
-//        }
-//        Console.WriteLine("Your score is 2");
-//   }
-//   else
-//   {
-//        Console.WriteLine("Incorrect.");
-//   }
-
-//Console.WriteLine("What is the square root of 49 times 3^3?");
-//   if (Console.ReadLine() == "189")
-//   {
-//        Console.WriteLine("Correct.");
-//   }
-//   else
-//   {
-//        Console.WriteLine("Incorrect.");
-//   }
-
-//Console.WriteLine("What is 4^5 times 2^8?");
-//   if (Console.ReadLine() == "262144")
-//   {
-//        Console.WriteLine("Correct.");
-//        var score4 = 4;
-//   }
-//   else
-//   {
-//        Console.WriteLine("Incorrect.");
-//   }
-
-//Console.WriteLine("Final question: what is 3^4 times 4^3?");
-//{
-//   if (Console.ReadLine() == "5184")
-//   {
-//        Console.WriteLine("Correct.");
-//        var score5 = 5;
-//    }
-//   else
-//   {
-//        Console.WriteLine("Incorrect.");
-//    }
-//}
-//Console.WriteLine("Thank you for completing this math quiz. Your score is"); // Figure out how to print the score using the 5 variables a, b, c, d, and e above.
+﻿Console.WriteLine("Welcome to the Rustler Technologies Inc. Login Validator. This is where you login to your Rustler account. You will go through a series of checks to make sure you are really a Rustler employee. Let's begin.");
+Console.WriteLine("Please type your Rustler account password below.");
+var inpupassword1 = Console.ReadLine();
+var uspassword1 = "37CVN5H39V82NB039B83NVGH3";
+if (inpupassword1 == uspassword1)
+{
+    Console.WriteLine("Your password is correct.");
+}
+else
+{
+    Console.WriteLine("Your password is incorrect. Try again.");
+    if (Console.ReadLine() == uspassword1)
+    {
+        Console.WriteLine("Your password is now correct.");
+    }
+    else
+    {
+        Console.WriteLine("That's still incorrect. You've reached the maximum number of chances for entering your passcode. You are booted out.");
+        Environment.Exit(1);
+    }
+}
+Console.WriteLine("Please type your Rustler account corporate username below.");
+var inpupuserna1 = Console.ReadLine();
+var ususerna1 = "HarveyAndersonSignoffPortal";
+if (inpupuserna1 == ususerna1)
+{
+    Console.WriteLine("Your username is correct.");
+}
+else
+{
+    Console.WriteLine("Your username is incorrect. Try again.");
+    if (Console.ReadLine() == ususerna1)
+    {
+        Console.WriteLine("Your username is now correct.");
+    }
+    else
+    {
+        Console.WriteLine("That's still incorrect. You've reached the maximum number of chances for entering your passcode. You are booted out.");
+        Environment.Exit(1);
+    }
+}
+Console.WriteLine("Please type your current job position at Rustler below.");
+var inpujobpos1 = Console.ReadLine();
+var usjobpos1 = "Project Manager A-6";
