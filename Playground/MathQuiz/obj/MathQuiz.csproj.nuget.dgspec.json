@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\car-m\\Documents\\Git\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj": {}
+    "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\car-m\\Documents\\Git\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj": {
+    "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\car-m\\Documents\\Git\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj",
+        "projectUniqueName": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj",
         "projectName": "MathQuiz",
-        "projectPath": "C:\\Users\\car-m\\Documents\\Git\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj",
+        "projectPath": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\MathQuiz.csproj",
         "packagesPath": "C:\\Users\\car-m\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\car-m\\Documents\\Git\\The-C-Sharp-Project\\Playground\\MathQuiz\\obj\\",
+        "outputPath": "C:\\Users\\car-m\\Documents\\GitHub\\The-C-Sharp-Project\\Playground\\MathQuiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\car-m\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
